@@ -16,4 +16,4 @@ You can find my CV here: [Kiber's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 [Email](mailto:2020011968@student.cup.edu.cn)/. 
 [Github](https://github.com/Kiberji)/. 
-[Wechat](wechat1.png). 
+[Wechat](../images/wechat1.png). 
