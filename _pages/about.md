@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senoir underaraduate student from [China University of Petroleum, Beijing](https://cup.edu.cn/). I will study for a Master of Philosophy in Energy and Climate Economics at [Center for Energy & Environmental Policy Research,Beijing Institute of Technology.(CEEP)]([https://ceep.bit.edu.cn]) in September 2024.
+I'm a senoir underaraduate student from [China University of Petroleum, Beijing](https://cup.edu.cn/). I will study for a Master of Philosophy in Energy and Climate Economics at [Center for Energy & Environmental Policy Research,Beijing Institute of Technology.(CEEP)](https://ceep.bit.edu.cn/) in September 2024.
 My research interest includes energy finance, energy economics, climate change economics and social development.
 
 Currently I am doing research on macro-financial models. Those who are interested in research in this area can communicate and cooperate with me.
