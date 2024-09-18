@@ -13,7 +13,7 @@ My research interests include energy and climate change economics and social dev
 
 Currently I am doing research on the Intergrated Assessment Models. Those who are interested in research in this area can communicate and cooperate with me.
 
-Welcome to join [廖华团队](https://ceep.bit.edu.cn/yjtd/qzxz/b34300.htm) at CCEP, BIT.
+Welcome to join [Liao's team](https://ceep.bit.edu.cn/yjtd/qzxz/b34300.htm) at CCEP, BIT.
 
 You can find my CV here: [Kiber's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
