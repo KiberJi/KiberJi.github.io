@@ -15,7 +15,7 @@ Currently I am doing research on the Intergrated Assessment Models. Those who ar
 
 Welcome to join [Liao's team](https://ceep.bit.edu.cn/yjtd/qzxz/b34300.htm) at CCEP, BIT.
 
-You can find my CV here: [Kiber's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Kiber's Curriculum Vitae](../assets/1Curriculum_Vitae.pdf).
 
 [Email](mailto:3120241630@bit.edu.cn)/. 
 [Github](https://github.com/Kiberji)/. 
