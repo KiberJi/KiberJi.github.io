@@ -11,7 +11,7 @@ redirect_from:
 I'm studying for a Master of Philosophy in Energy and Climate Economics at [Center for Energy & Environmental Policy Research,Beijing Institute of Technology.(CEEP)](https://ceep.bit.edu.cn/) .
 My research interests include energy and climate change economics and social development.
 
-Currently I am doing research on macro-financial models. Those who are interested in research in this area can communicate and cooperate with me.
+Currently I am doing research on the Intergrated Assessment Models. Those who are interested in research in this area can communicate and cooperate with me.
 
 Welcome to join [廖华团队](https://ceep.bit.edu.cn/yjtd/qzxz/b34300.htm) at CCEP, BIT.
 
