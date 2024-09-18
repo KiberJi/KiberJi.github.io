@@ -17,6 +17,6 @@ Welcome to join [Liao's team](https://ceep.bit.edu.cn/yjtd/qzxz/b34300.htm) at C
 
 You can find my CV here: [Kiber's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:2020011968@student.cup.edu.cn)/. 
+[Email](mailto:3120241630@bit.edu.cn)/. 
 [Github](https://github.com/Kiberji)/. 
 [WeChat](../images/wechat1.png). 
