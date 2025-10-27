@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student majoring in Energy and Climate Economics at [Center for Energy & Environmental Policy Research,Beijing Institute of Technology.(CEEP)](https://ceep.bit.edu.cn/) .
-My research interests include climate change and growth.
+I'm pursuing a Ph.D. in Energy and Climate Economics at [Center for Energy & Environmental Policy Research,Beijing Institute of Technology.(CEEP, BIT)](https://ceep.bit.edu.cn/) .
+My research interests include the economics of climate change and economic growth, with a particular focus on Integrated Assessment Models (IAMs). 
 
-Currently I am doing research on the Intergrated Assessment Model. Those who are interested in research in this area could communicate and cooperate with me.
-
-Welcome to join CEEP, BIT.
+I welcome collaboration and academic exchange with researchers who share similar interests.
 
 [Email](mailto:jizhihao09@bit.edu.cn)/. 
 [Github](https://github.com/Kiberji)/. 
